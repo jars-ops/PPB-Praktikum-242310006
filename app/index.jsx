@@ -6,6 +6,7 @@ export default function Index() {
     // return <Redirect href={/modules/latihan_3} />;
     // return <Redirect href="/module/latihan_3_2" />;
     // return <Redirect href="/module/Tugas_2_2" />;
-    return <Redirect href="/module/Tugas_3" />;
+    // return <Redirect href="/module/Tugas_3" />;
+    return <Redirect href="/module/Pertemuan4/HomeScreen_4"/>;
 
 }
